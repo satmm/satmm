@@ -1,4 +1,4 @@
-<h1>Hello!!...👋👋</h1>
+<h1>Hello...!!👋👋</h1>
 <h2>My name is <a href="https://www.linkedin.com/in/satyam-singh-483673207">Satyam singh</a>👦🏻</h2
  <h2>I am persuing my bachelors degree of information science engineering 💻<br> at <a href=https://sahyadri.edu.in/>Sahyadri college of engineering and management🏫</a> </h2>
  <h3>"Being an technical student, I enjoy learning about the breakthrough in technology. I attend a professional workshop about ‘new technologies’ , where I learn about a new tool in the market"</h3>
