@@ -8,10 +8,8 @@
   <br>
  <hr>
   <br>
-  <h2>
-            <style>
-        h2{text-align: center;}
-    </style>     
+  <h2 text-align:center>
+           
           👀 Looking for Internship  👀
  
  </h2>
