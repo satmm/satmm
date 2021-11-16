@@ -10,7 +10,7 @@
   <br>
   <h2>
                  
-          👀  Internship  👀
+          👀 Looking for Internship  👀
  
  </h2>
                  
