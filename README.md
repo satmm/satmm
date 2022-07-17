@@ -9,8 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/Satyam_singh12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="satyam singh" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/satyam-singh-483673207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam singh" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100027166006636" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="satyam singh" height="30" width="40" /></a>
-<a href="https://instagram.com/satyamm19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satyamm19" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,4 +22,4 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyammmmmm&show_icons=true&locale=en&layout=compact" alt="satyammmmmm" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=satyammmmmm&show_icons=true&locale=en" alt="satyammmmmm" /></p>
+<p>&nbsp;<img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=satyammmmmm&show_icons=true&locale=en" alt="satyammmmmm" /></p>
