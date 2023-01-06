@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Satyam singh</h1>
-<h3 align="center">I'm an Engineering student , developer</h3>
+<h3 align="center">I'm an Engineering student </h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
 
