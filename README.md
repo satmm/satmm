@@ -1,5 +1,6 @@
 <h1 align="center">Hello 👋, I'm Satyam singh</h1>
 <h3 align="center">I'm an Engineering student </h3>
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
 
