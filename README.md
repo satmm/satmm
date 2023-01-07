@@ -1,4 +1,4 @@
-<h2> Hi, I'm Satyam Singh <img src="[https://i.gifer.com/Buo.gif](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia4.giphy.com%2Fmedia%2F1kJxyyCq9ZHXX0GM3a%2Fgiphy.gif&imgrefurl=https%3A%2F%2Fgiphy.com%2Fexplore%2Fgreeting&tbnid=J-xlN_tfLzmXvM&vet=12ahUKEwi2_43ntLX8AhVXyKACHSQjAswQMygAegUIARDAAQ..i&docid=_EgnRWeWUjbvrM&w=500&h=333&q=greeting%20by%20giphy.gif&ved=2ahUKEwi2_43ntLX8AhVXyKACHSQjAswQMygAegUIARDAAQ)" width="50"></h2>
+<h2> Hi, I'm Satyam Singh <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif"width="50"></h2>
 
 <p><em>Information Technology Engineering Student at  <a href="https://sahyadri.edu.in/">Sahyadri College Of Engineering & Management</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
