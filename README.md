@@ -1,11 +1,7 @@
 <h2> Hi, I'm Satyam Singh <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Information Technology Student at  <a href="https://sahyadri.edu.in/">Sahyadri College Of Engineering & Management</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
-
-[![Twitter: SatyamSingh](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/Satyam_singh12)
-[![Linkedin: SatyamSingh](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/satyam-singh-483673207/)
-[![GitHub Satmm](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/satmm)
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
