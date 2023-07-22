@@ -45,6 +45,6 @@
 
 <hr>
 
-<p><img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=satmm&show_icons=true&locale=en&layout=compact" alt="satmm" /></p>
+<p>><img align="centre" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=satmm&show_icons=true&locale=en&layout=compact" alt="satmm" />></p>
 
 
