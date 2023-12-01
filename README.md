@@ -4,8 +4,8 @@
 <hr>
 <!-- <h2> Hi, I'm Satyam Singh <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif"width="50"></h2> -->
 
-<h2><em>Pursuing BE in Information Technology Engineering at  <a href="https://sahyadri.edu.in/">Sahyadri College Of Engineering & Management</a><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-</em></h2>
+<h3><em>Pursuing BE in Information Technology Engineering at  <a href="https://sahyadri.edu.in/">Sahyadri College Of Engineering & Management</a><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</em></h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
