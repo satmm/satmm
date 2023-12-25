@@ -36,6 +36,8 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40">
+  <br>
+  <br>
   <img src="https://img.icons8.com/windows/32/000000/console.png" alt="Shell" width="32" height="32">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="40" height="40"/>
 <img src="https://img.icons8.com/fluency/48/000000/flask.png" alt="Flask" width="40" height="40"/>
