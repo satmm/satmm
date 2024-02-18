@@ -50,13 +50,14 @@
 <h3 align="left">💻 Goals for the future:</h3>
 <ul>
   <li>Contribute more to open-source projects 🛠️</li>
-  <li>Learn a New Technology or Framework 🚀</li>
+  <li>Learn a New Technology or Framework 🧑🏻‍💻</li>
   <li>Build innovative and impactful software solutions 🌐</li>
   <li>Start a Tech Blog 🍃</li>
 </ul>
 
 <h3 align="left"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Pickup Line for you:</h3>
 <em>"Are you a coder? Because you've got my heart in an infinite loop. 💖"</em>
+
 
 <hr>
 
