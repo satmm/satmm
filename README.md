@@ -3,6 +3,7 @@
 </div>
 <hr>
 
+
 <h2 align="center"> Hey there! I'm Satyam Singh 👨🏻‍💻</h2>
 
 <h3 align="center"><em>Pursuing BE in Information Technology Engineering at <a href="https://sahyadri.edu.in/">Sahyadri College Of Engineering & Management</a> 🚀</em></h3>
@@ -60,7 +61,6 @@
 
 
 <hr>
-
 
 
 <div style="display: flex; flex-direction: column; align-items: center;">
