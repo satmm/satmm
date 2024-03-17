@@ -59,19 +59,25 @@
 </ul>
 
 
-### Currently Focused On:
+<h3>🧑🏻‍💻 Currently Focused On:</h3>
+<div style="display: flex; align-items: center;">
+  <p style="flex: 1;">Developing a strong grip on the MERN stack (MongoDB, Express.js, React.js, Node.js) to build robust and scalable web applications. Additionally, exploring Python frameworks like Streamlit for data visualization and rapid prototyping.</p>
+  <img src="https://camo.githubusercontent.com/4052adea05ff86d2363c8509099905444637394b603a684f544b5d89d344f362/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a323030302f312a2d6e744c33447376632d644a35634c475274537545772e676966" alt="GIF" style="width: 350px; height: auto;">
+</div>
 
-Developing a strong grip on the MERN stack (MongoDB, Express.js, React.js, Node.js) to build robust and scalable web applications. Additionally, exploring Python frameworks like Streamlit for data visualization and rapid prototyping.
 
 
-
-<h3 align="left">🎉 Fun Fact:</h3>
+<h3 align="left">😆 Fun Fact:</h3>
 <p align="left">I once wrote a script to automatically generate compliments for others code 💻, but it backfired when it started roasting my own code instead.</p>
 
 <h3 align="left"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Pickup Line for you:</h3>
 <em>"If you were a bug, I'd want you to stay in my code forever, because you're the only one I'd never want to fix."</em>
 
+
+
+
 <hr>
+
 
 <div style="display: flex; flex-direction: column; align-items: center;">
 
