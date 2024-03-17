@@ -3,12 +3,7 @@
 </div>
 <hr>
 
-
 <h2 align="center"> Hey there! I'm Satyam Singh 👨🏻‍💻</h2>
-
-
-
-
 
 <h3 align="center"><em>Pursuing BE in Information Technology Engineering at <a href="https://sahyadri.edu.in/">Sahyadri College Of Engineering & Management</a> 🚀</em></h3>
 
@@ -48,8 +43,6 @@
 <img src="https://img.icons8.com/fluency/48/000000/flask.png" alt="Flask" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="40" height="40"/>
-
-
 </p>
 
 <h3 align="left">💻 Goals for the future:</h3>
@@ -60,12 +53,13 @@
   <li>Start a Tech Blog 🍃</li>
 </ul>
 
-<h3 align="left"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Pickup Line for you:</h3>
-<em>"Are you a coder? Because you've got my heart in an infinite loop. 💖"</em>
+<h3 align="left">🎉 Fun Fact:</h3>
+<p align="left">I once wrote a script to automatically generate compliments for others code 💻, but it backfired when it started roasting my own code instead.</p>
 
+<h3 align="left"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Pickup Line for you:</h3>
+<em>"If you were a bug, I'd want you to stay in my code forever, because you're the only one I'd never want to fix."</em>
 
 <hr>
-
 
 <div style="display: flex; flex-direction: column; align-items: center;">
 
@@ -86,11 +80,3 @@
   </div>
 
 </div>
-
-
-
-
-
-
-
-
