@@ -38,12 +38,17 @@
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40">
   <br>
   <br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  
   <img src="https://img.icons8.com/windows/32/000000/console.png" alt="Shell" width="32" height="32">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="40" height="40"/>
-<img src="https://img.icons8.com/fluency/48/000000/flask.png" alt="Flask" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/000000/flask.png" alt="Flask" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
 </p>
+
 
 <h3 align="left">💻 Goals for the future:</h3>
 <ul>
@@ -52,6 +57,13 @@
   <li>Build innovative and impactful software solutions 🌐</li>
   <li>Start a Tech Blog 🍃</li>
 </ul>
+
+
+### Currently Focused On:
+
+Developing a strong grip on the MERN stack (MongoDB, Express.js, React.js, Node.js) to build robust and scalable web applications. Additionally, exploring Python frameworks like Streamlit for data visualization and rapid prototyping.
+
+
 
 <h3 align="left">🎉 Fun Fact:</h3>
 <p align="left">I once wrote a script to automatically generate compliments for others code 💻, but it backfired when it started roasting my own code instead.</p>
