@@ -5,7 +5,7 @@
 
 <h2 align="center"> Hey there! I'm Satyam Singh 👨🏻‍💻</h2>
 
-<h3 align="center"><em>Pursuing BE in Information Technology Engineering at <a href="https://sahyadri.edu.in/">Sahyadri College Of Engineering & Management</a> 🚀</em></h3>
+<h3 align="center"><em>Pursuing BE in Information Technology Engineering at <a href="https://sahyadri.edu.in/">Sahyadri College Of Engineering & Management</a> 🧑🏻‍🎓</em></h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
 
