@@ -1,6 +1,6 @@
-<div align="center">
+<!--<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Satyam+Singh;Final+Year+Engineering+Student+👨🏻‍🎓;Open+Source+Contributor+🧑🏻‍💻"/>
-</div>
+</div> -->
 
 <img  alt="Coding" width="1010" height = "300" src="assets/318301884-cfc8e6ce-df39-49b4-8ce7-6f540b9bf34f.gif">
 
