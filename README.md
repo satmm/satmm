@@ -64,7 +64,7 @@
 
 <h3>🧑🏻‍💻 Currently Focused On:</h3>
 <div style="display: flex; align-items: center;">
-  <p style="flex: 1;">Developing a strong grip on the MERN stack (MongoDB, Express.js, React.js, Node.js) to build robust and scalable web applications. Additionally, exploring Python frameworks like Streamlit for data visualization and rapid prototyping.</p>
+  <p style="flex: 1;">Mastering the MERN stack (MongoDB, Express.js, React.js, Node.js) to build scalable web applications. Explored Python frameworks like Streamlit for dynamic data visualization and rapid prototyping. Now, after completing full-stack development, I've shifted focus towards the thrilling domain of Web 3.0, delving into crypto solutions and NFT platforms.</p>
   <img src="https://camo.githubusercontent.com/4052adea05ff86d2363c8509099905444637394b603a684f544b5d89d344f362/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a323030302f312a2d6e744c33447376632d644a35634c475274537545772e676966" alt="GIF" style="width: 350px; height: auto;">
 </div>
 
