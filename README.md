@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=30&lines=Hi+👋,+I'm+Satyam+Singh;Final+Year+Engineering+Student+👨🏻‍🎓;Open+Source+Contributor+🧑🏻‍💻"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Satyam+Singh;Final+Year+Engineering+Student+👨🏻‍🎓;Open+Source+Contributor+🧑🏻‍💻"/>
 </div>
 
 <img  alt="Coding" width="1010" height = "300" src="assets/318301884-cfc8e6ce-df39-49b4-8ce7-6f540b9bf34f.gif">
@@ -7,8 +7,6 @@
 
 
 <h2 align="center"> Hey there! I'm Satyam Singh 👨🏻‍💻</h2>
-
-<h3 align="center"><em>Pursuing BE in Information Technology Engineering at <a href="https://sahyadri.edu.in/">Sahyadri College Of Engineering & Management</a> 🧑🏻‍🎓</em></h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
 
