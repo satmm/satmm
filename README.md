@@ -26,6 +26,14 @@
 
 </p>
 
+<h3 align="left">💻 Goals for the future:</h3>
+<ul>
+  <li>Contribute more to open-source projects 🛠️</li>
+  <li>Learn a New Technology or Framework 🧑🏻‍💻</li>
+  <li>Build innovative and impactful software solutions 🌐</li>
+  <li>Start a Tech Blog 🍃</li>
+</ul>
+
 <h3 align="left">🚀 Languages and Tools:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -51,13 +59,7 @@
 </p>
 
 
-<h3 align="left">💻 Goals for the future:</h3>
-<ul>
-  <li>Contribute more to open-source projects 🛠️</li>
-  <li>Learn a New Technology or Framework 🧑🏻‍💻</li>
-  <li>Build innovative and impactful software solutions 🌐</li>
-  <li>Start a Tech Blog 🍃</li>
-</ul>
+
 
 
 <h3>🧑🏻‍💻 Currently Focused On:</h3>
