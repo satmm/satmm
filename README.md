@@ -7,13 +7,13 @@
 
 
 <h2 align="center"> Hey there! I'm Satyam Singh 👨🏻‍💻</h2>
-
+  
 <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
 
 - 🧑🏻‍💻 I'm a Information Technology (IT) Engineer.
 - 🕸️ Skilled in both frontend and backend development.
-- 😘 Enjoy contributing to and collaborating on open-source projects.
-- 🏎️ Passionate about the thrilling world of motorsports, particularly Formula 1.
+- 😘 Enjoy contributing to and collaborating on open-source &emsp;projects.
+- 🏎️ Passionate about the thrilling world of motorsports,&emsp;particularly Formula 1.
 
 <h3 align="left">💻 Goals for the future:</h3>
 <ul>
