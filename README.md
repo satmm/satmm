@@ -28,14 +28,14 @@
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/satyamsinghh/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white " target="_blank"/></a>
-  <a href="https://x.com/Satyam_singh12"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white target="_blank"" /></a> 
-  <a href="https://www.instagram.com/satyamm19/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white target="_blank"" /></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=satyamsingh.on@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white target="_blank"" /></a>
+  <a href="https://x.com/Satyam_singh12"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white " target="_blank" /></a> 
+  <a href="https://www.instagram.com/satyamm19/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white " target="_blank" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=satyamsingh.on@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white "target="_blank" /></a>
 
 </p>
 <p align="center">
-  <a href="https://satmm.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/My_Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white target="_blank"" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/@satyamsingh.on"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white target="_blank"" /></a>
+  <a href="https://satmm.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/My_Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white "target="_blank" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@satyamsingh.on"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white " target="_blank" /></a>
 </p>
 
 <h3 align="left">🚀 Languages and Tools:</h3>
