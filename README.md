@@ -13,7 +13,7 @@
 - 🧑🏻‍💻 I'm a Information Technology (IT) Engineer.
 - 🕸️ Skilled in both frontend and backend development.
 - 😘 Enjoy contributing to and collaborating on open-source projects.
-- 🏎️ Passionate about the thrilling world of motorsports,&emsp;particularly Formula 1.
+- 🏎️ Passionate about the thrilling world of motorsports,particularly &emsp;Formula 1.
 
 <h3 align="left">💻 Goals for the future:</h3>
 <ul>
