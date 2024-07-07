@@ -59,12 +59,20 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
 </p>
 
+
+
 <h3>🧑🏻‍💻 Currently Focused On:</h3>
 
-| ![Your image description](https://camo.githubusercontent.com/4052adea05ff86d2363c8509099905444637394b603a684f544b5d89d344f362/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a323030302f312a2d6e744c33447376632d644a35634c475274537545772e676966) |Venturing into the dynamic landscape of Web 3.0, with a focus on understanding blockchain technology, cryptocurrencies, and the captivating universe of NFTs (Non-Fungible Tokens).Passionate about learning and understanding the potential impact of these innovations on various industries and society as a whole. |
-|---|---|
-
-
+<table>
+  <tr>
+    <td>
+      <img src="https://i.imgflip.com/4isfck.gif" alt="Your image description" width="300" height="150">
+    </td>
+    <td>
+      Venturing into the dynamic landscape of Web 3.0, with a focus on understanding blockchain technology, cryptocurrencies, and the captivating universe of NFTs (Non-Fungible Tokens). Passionate about learning and understanding the potential impact of these innovations on various industries and society as a whole.
+    </td>
+  </tr>
+</table>
 
 
 
