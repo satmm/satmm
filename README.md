@@ -79,8 +79,6 @@
 <h3 align="left">😆 Fun Fact:</h3>
 <p align="left">I once wrote a script to automatically generate compliments for others code 💻, but it backfired when it started roasting my own code instead.</p>
 
-<h3 align="left"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Pickup Line for you:</h3>
-<em>"If you were a bug, I'd want you to stay in my code forever, because you're the only one I'd never want to fix."</em>
 
 
 
@@ -98,6 +96,7 @@
   </a>
 </p>
 
+
 <p align="center">
   <a href="https://github.com/satmm?tab=repositories">
     <img alt="Satyam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=satmm&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="180px"/>
@@ -107,3 +106,8 @@
   </a>
 </p>
 
+
+
+<hr>
+<h3 align="left"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Pickup Line for you:</h3>
+<em>"If you were a bug, I'd want you to stay in my code forever, because you're the only one I'd never want to fix."</em>
