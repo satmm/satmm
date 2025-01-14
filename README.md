@@ -10,7 +10,7 @@
   
 <img align="right" alt="Coding" width="350" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
 
-- 🧑🏻‍💻 I'm a Information Technology (IT) Engineer.
+- 🧑🏻‍💻 I'm a Software Engineer.
 - 🕸️ Skilled in both frontend and backend development.
 - 😘 Enjoy contributing to and collaborating on open-source projects.
 - 🏎️ Passionate about the thrilling world of motorsports,<br>&emsp;particularly Formula 1.
