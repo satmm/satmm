@@ -125,19 +125,6 @@ automation, and CI/CD pipelines.
 - Automating repetitive development and deployment tasks.
 - Exploring reliable and repeatable delivery practices.
 
-### Flight Navigation & Risk Mitigation
-
-A full-stack flight navigation project focused on route optimization
-and risk analysis.
-
-- Integrated real-time weather APIs and aviation data.
-- Developed route recommendations based on weather conditions
-  and aircraft health.
-- Built a React and Node.js dashboard for route evaluation.
-- Used simulated test runs to assess risky flight paths.
-
-**Stack:** React.js · Node.js · Express.js · MongoDB · REST APIs
-
 ### AI Engineering
 
 Exploring the integration of AI into software applications,
@@ -196,8 +183,3 @@ content creation, visual design, and AI-powered media.
 - Use AI where it creates real value, not just because it is available.
 
 ---
-
-## Beyond Code
-
-Formula 1 enthusiast — interested in the engineering, strategy,
-and systems thinking behind motorsports.
