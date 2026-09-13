@@ -1,113 +1,203 @@
-<!--<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Satyam+Singh;Final+Year+Engineering+Student+👨🏻‍🎓;Open+Source+Contributor+🧑🏻‍💻"/>
-</div> -->
 
-<img  alt="Coding" width="1010" height = "300" src="assets/318301884-cfc8e6ce-df39-49b4-8ce7-6f540b9bf34f.gif">
+<h1 align="center">Hi, I'm Satyam Singh</h1>
 
-
-
-<h2 align="center"> Hey there! I'm Satyam Singh 👨🏻‍💻</h2>
-  
-<img align="right" alt="Coding" width="350" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
-
-- 🧑🏻‍💻 I'm a Software Engineer.
-- 🕸️ Skilled in both frontend and backend development.
-- 😘 Enjoy contributing to and collaborating on open-source projects.
-- 🏎️ Passionate about the thrilling world of motorsports,<br>&emsp;particularly Formula 1.
-
-<h3 align="left">💻 Goals for the future:</h3>
-<ul>
-  <li>Contribute more to open-source projects 🛠️</li>
-  <li>Learn a New Technology or Framework 🧑🏻‍💻</li>
-  <li>Build innovative and impactful software solutions 🌐</li>
-  <li>Start a Tech Blog 🍃</li>
-</ul>
-
-
-
-<h3 align="left">🌐 Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/satyamsinghh/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white " target="_blank"/></a>
-  <a href="https://x.com/Satyam_singh12"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white " target="_blank" /></a> 
-  <a href="https://www.instagram.com/satyamm19/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white " target="_blank" /></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=satyamsingh.on@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white "target="_blank" /></a>
-
+  <b>Software Engineer | Backend · Cloud · DevOps · AI</b>
 </p>
+
 <p align="center">
-  <a href="https://satmm.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/My_Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white "target="_blank" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/@satyamsingh.on"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white " target="_blank" /></a>
+  <a href="https://www.linkedin.com/in/satyamsinghh/">LinkedIn</a>
+  ·
+  <a href="https://satmm.github.io/My-Portfolio/">Portfolio</a>
+  ·
+  <a href="mailto:satyamsingh.on@gmail.com">Email</a>
 </p>
 
-<h3 align="left">🚀 Languages and Tools:</h3>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://img.icons8.com/windows/32/000000/console.png" alt="Shell" width="32" height="32">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="40" height="40"/>
-  <img src="https://img.icons8.com/fluency/48/000000/flask.png" alt="Flask" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-</p>
+---
 
+## About
 
+I work mainly with backend development, AWS, and automation.
 
-<h3>🧑🏻‍💻 Currently Focused On:</h3>
+Most of my work involves building APIs, working with databases, developing pipelines, managing deployments, and improving application scalability and maintainability.
+
+I also spend time exploring AI integrations, especially practical
+use cases involving LLMs, account-based data, RAG, and tool calling.
+
+Outside software engineering, I work on Meta Ads, video editing,
+AI video generation, Canva designs, and meme content.
+
+---
+
+## Engineering Focus
 
 <table>
   <tr>
-    <td>
-      <img src="https://i.imgflip.com/4isfck.gif" alt="Your image description" width="300" height="150">
+    <td width="50%" valign="top">
+
+### Backend Engineering
+
+- REST API design
+- Business logic and service architecture
+- Database design and optimization
+- Error handling and maintainable code
+- Full-stack application development
+
     </td>
-    <td>
-      Venturing into the dynamic landscape of Web 3.0, with a focus on understanding blockchain technology, cryptocurrencies, and the captivating universe of NFTs (Non-Fungible Tokens). Passionate about learning and understanding the potential impact of these innovations on various industries and society as a whole.
+    <td width="50%" valign="top">
+
+### Cloud & DevOps
+
+- AWS cloud services
+- CI/CD pipeline development
+- Deployment automation
+- Linux and shell scripting
+- Infrastructure and application operations
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### AI Engineering
+
+- AI-powered application development
+- LLM and API integrations
+- AI-assisted workflows
+- Exploring intelligent automation
+- Applying AI to real-world problems
+
+    </td>
+    <td width="50%" valign="top">
+
+### Engineering Practices
+
+- Version control and collaboration
+- System design fundamentals
+- Debugging and performance analysis
+- Automation and process improvement
+- Writing maintainable software
+
     </td>
   </tr>
 </table>
 
+---
 
+## Selected Work
 
-<h3 align="left">😆 Fun Fact:</h3>
-<p align="left">I once wrote a script to automatically generate compliments for others code 💻, but it backfired when it started roasting my own code instead.</p>
+### Advertising Analytics & Campaign Automation
 
+Working on software for an advertising platform focused on turning
+campaign performance data into actionable insights.
 
+- Developing backend APIs and service-layer business logic for
+  advertising workflows.
+- Working with campaign management, ad creation, and keyword
+  bidding functionality.
+- Integrating advertising account data into reporting and
+  performance analytics workflows.
+- Building action-oriented analytics to support campaign
+  performance decisions.
+- Structuring API responsibilities to improve maintainability
+  and support evolving business requirements.
 
+### Account-Aware AI Assistant
 
+Worked on integrating a chatbot using Retrieval-Augmented
+Generation (RAG) and tool calling to help users ask questions
+related to their advertising account.
 
-<hr>
+- Implemented RAG-based retrieval for relevant account information.
+- Integrated tool-calling workflows to fetch account-specific data.
+- Enabled users to ask questions about their campaigns,
+  advertising performance, and related metrics.
+- Connected AI responses with backend account data and
+  application workflows.
 
-  <h3 align="left">📊 GitHub Stats:</h3>
-<div style="display: flex; flex-direction: column; align-items: center;">
+### Cloud & DevOps
 
+Building practical experience in cloud infrastructure, deployment
+automation, and CI/CD pipelines.
 
+- Working with AWS services and cloud environments.
+- Understanding application deployment and operational workflows.
+- Automating repetitive development and deployment tasks.
+- Exploring reliable and repeatable delivery practices.
 
-<p align="center">
-  <a href="https://github.com/satmm?tab=repositories">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=satmm&theme=tokyonight&hide_border=true" alt="Satyam's GitHub streak"/>
-  </a>
-</p>
+### Flight Navigation & Risk Mitigation
 
+A full-stack flight navigation project focused on route optimization
+and risk analysis.
 
-<p align="center">
-  <a href="https://github.com/satmm?tab=repositories">
-    <img alt="Satyam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=satmm&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="180px"/>
-  </a>
-  <a href="https://github.com/satmm?tab=repositories">
-    <img alt="Satyam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=satmm&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
-  </a>
-</p>
+- Integrated real-time weather APIs and aviation data.
+- Developed route recommendations based on weather conditions
+  and aircraft health.
+- Built a React and Node.js dashboard for route evaluation.
+- Used simulated test runs to assess risky flight paths.
 
+**Stack:** React.js · Node.js · Express.js · MongoDB · REST APIs
 
+### AI Engineering
 
-<hr>
-<h3 align="left"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Pickup Line for you:</h3>
-<em>"If you were a bug, I'd want you to stay in my code forever, because you're the only one I'd never want to fix."</em>
+Exploring the integration of AI into software applications,
+with a focus on practical use cases rather than AI as a buzzword.
+
+- LLM-powered application workflows.
+- AI-assisted analytics and decision support.
+- API integrations and automation.
+- Building useful software around AI capabilities.
+
+---
+
+## Creative & Digital Work
+
+Alongside engineering, I actively work on digital marketing,
+content creation, visual design, and AI-powered media.
+
+### Meta Ads & Digital Marketing
+
+- Creating and managing Meta advertising campaigns.
+- Exploring audience targeting, campaign performance,
+  and creative optimization.
+- Understanding how content, advertising, and analytics
+  work together to drive engagement.
+
+### Video Editing & AI Video Generation
+
+- Editing short-form videos and social media content.
+- Experimenting with AI-generated videos and creative workflows.
+- Combining storytelling, visuals, sound, and AI tools
+  to create engaging content.
+
+### Canva & Visual Design
+
+- Designing Canva templates for social media and digital content.
+- Creating visual assets, layouts, thumbnails, and promotional designs.
+- Exploring design systems, typography, composition, and branding.
+
+### Meme Content & Community Building
+
+- Running and managing a meme page.
+- Creating relatable and shareable content.
+- Studying audience behavior, trends, engagement,
+  and content performance.
+- Combining creativity with consistency and experimentation.
+
+---
+
+## Engineering Principles
+
+- Design for clarity before complexity.
+- Automate repeatable workflows.
+- Keep deployment processes predictable.
+- Build systems that are easy to debug and maintain.
+- Understand the trade-offs behind technical decisions.
+- Use AI where it creates real value, not just because it is available.
+
+---
+
+## Beyond Code
+
+Formula 1 enthusiast — interested in the engineering, strategy,
+and systems thinking behind motorsports.
