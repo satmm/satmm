@@ -1,130 +1,69 @@
-
-<h1 align="center">Hi, I'm Satyam Singh</h1>
+<h1 align="center">Satyam Singh</h1>
 
 <p align="center">
-  <b>Software Engineer | Backend · Cloud · DevOps · AI</b>
+  <b>Software Engineer · Backend · Cloud · DevOps · AI</b><br/>
+  Building scalable APIs, cloud pipelines, and practical AI features.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/satyamsinghh/">LinkedIn</a>
-  ·
-  <a href="https://satmm.github.io/My-Portfolio/">Portfolio</a>
-  ·
-  <a href="mailto:satyamsingh.on@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/satyamsinghh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://satmm.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:satyamsingh.on@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
 
-## About
+## What I Do
 
-I work mainly with backend development, AWS, and automation.
-
-Most of my work involves building APIs, working with databases, developing pipelines, managing deployments, and improving application scalability and maintainability.
-
-I also spend time exploring AI integrations, especially practical
-use cases involving LLMs, account-based data, RAG, and tool calling.
-
-Outside software engineering, I work on Meta Ads, video editing,
-AI video generation, Canva designs, and meme content.
+| 🛠 Backend | ☁️ Cloud & DevOps | 🤖 Applied AI |
+|---|---|---|
+| REST APIs, service-layer logic, database design | AWS, CI/CD, deployment automation | LLMs, RAG, tool calling |
 
 ---
 
 ## Selected Work
 
-### Advertising Analytics & Campaign Automation
+### 📊 Advertising Analytics & Campaign Automation
+Backend for an advertising platform that turns campaign data into actionable insights.
 
-Working on software for an advertising platform focused on turning
-campaign performance data into actionable insights.
+- Built APIs and business logic for campaign management, ad creation, and keyword bidding
+- Integrated advertising account data into reporting and performance analytics
+- Structured API responsibilities for maintainability as requirements evolved
 
-- Developing backend APIs and service-layer business logic for
-  advertising workflows.
-- Working with campaign management, ad creation, and keyword
-  bidding functionality.
-- Integrating advertising account data into reporting and
-  performance analytics workflows.
-- Building action-oriented analytics to support campaign
-  performance decisions.
-- Structuring API responsibilities to improve maintainability
-  and support evolving business requirements.
+### 💬 Account-Aware AI Assistant
+A chatbot that answers questions about a user's own advertising account.
 
-### Account-Aware AI Assistant
-
-Worked on integrating a chatbot using Retrieval-Augmented
-Generation (RAG) and tool calling to help users ask questions
-related to their advertising account.
-
-- Implemented RAG-based retrieval for relevant account information.
-- Integrated tool-calling workflows to fetch account-specific data.
-- Enabled users to ask questions about their campaigns,
-  advertising performance, and related metrics.
-- Connected AI responses with backend account data and
-  application workflows.
-
-### Cloud & DevOps
-
-Building practical experience in cloud infrastructure, deployment
-automation, and CI/CD pipelines.
-
-- Working with AWS services and cloud environments.
-- Understanding application deployment and operational workflows.
-- Automating repetitive development and deployment tasks.
-- Exploring reliable and repeatable delivery practices.
-
-### AI Engineering
-
-Exploring the integration of AI into software applications,
-with a focus on practical use cases rather than AI as a buzzword.
-
-- LLM-powered application workflows.
-- AI-assisted analytics and decision support.
-- API integrations and automation.
-- Building useful software around AI capabilities.
+- **RAG** retrieval for relevant account information
+- **Tool calling** to fetch live, account-specific data
+- Connected AI responses to backend data and existing application workflows
 
 ---
 
-## Creative & Digital Work
+## Tech Stack
 
-Alongside engineering, I actively work on digital marketing,
-content creation, visual design, and AI-powered media.
-
-### Meta Ads & Digital Marketing
-
-- Creating and managing Meta advertising campaigns.
-- Exploring audience targeting, campaign performance,
-  and creative optimization.
-- Understanding how content, advertising, and analytics
-  work together to drive engagement.
-
-### Video Editing & AI Video Generation
-
-- Editing short-form videos and social media content.
-- Experimenting with AI-generated videos and creative workflows.
-- Combining storytelling, visuals, sound, and AI tools
-  to create engaging content.
-
-### Canva & Visual Design
-
-- Designing Canva templates for social media and digital content.
-- Creating visual assets, layouts, thumbnails, and promotional designs.
-- Exploring design systems, typography, composition, and branding.
-
-### Meme Content & Community Building
-
-- Running and managing a meme page.
-- Creating relatable and shareable content.
-- Studying audience behavior, trends, engagement,
-  and content performance.
-- Combining creativity with consistency and experimentation.
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square)
+<!-- Add your languages/tools here, e.g. Python, Java, Node.js, PostgreSQL, Docker -->
 
 ---
 
-## Engineering Principles
+## Beyond Code
 
-- Design for clarity before complexity.
-- Automate repeatable workflows.
-- Keep deployment processes predictable.
-- Build systems that are easy to debug and maintain.
-- Understand the trade-offs behind technical decisions.
-- Use AI where it creates real value, not just because it is available.
+Meta Ads · Video editing & AI video generation · Canva design · Running a meme page
+
+*Creative work that taught me audience behavior, analytics, and content performance.*
 
 ---
+
+## How I Build
+
+**Clarity over complexity** · **Automate repeatable work** · **Use AI only where it adds real value**
+
+---
+
+<p align="center">
+  📫 <a href="mailto:satyamsingh.on@gmail.com">satyamsingh.on@gmail.com</a>
+</p>
