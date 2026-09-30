@@ -4,7 +4,6 @@
   <b>Software Engineer · Backend · Cloud · DevOps · AI</b><br/>
   Building scalable APIs, cloud pipelines, and practical AI features.
 </p>
----
 
 ## What I Do
 
